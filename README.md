@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/OPwK02Ia)
 Exercício 01: Do Caos à Estrutura – Semântica HTML5
 🎯 Objetivo
 Nesta tarefa, o teu objetivo é transformar um site com estrutura genérica (baseado apenas em <div>) num documento HTML5 Semântico. A aparência visual não deve mudar, mas o "significado" do código para motores de busca e leitores de ecrã deve ser profissionalizado.
